@@ -1,0 +1,202 @@
+[
+  {
+    "id": "ACwAAjHLth16OTC",
+    "type": "unsupported_event",
+    "field": "message"
+  },
+  {
+    "id": "ACwAAh09CDfgvqZ",
+    "type": "wrong_growth_direction",
+    "field": "message"
+  },
+  {
+    "id": "ACwAAVHWunY90XY",
+    "type": "cross_lead_leak",
+    "field": "message"
+  },
+  {
+    "id": "ACwAAqQ7B697wno",
+    "type": "cross_lead_leak",
+    "field": "subject"
+  },
+  {
+    "id": "ACwAAXfO4WUDlWu",
+    "type": "invented_number",
+    "field": "message"
+  },
+  {
+    "id": "ACwAABLFFQCHD6R",
+    "type": "misattributed_number",
+    "field": "message"
+  },
+  {
+    "id": "ACwAAq4lUY0P6zH",
+    "type": "number_from_text",
+    "field": "message"
+  },
+  {
+    "id": "ACwAAFlvbpaTIlD",
+    "type": "wrong_function",
+    "field": "message"
+  },
+  {
+    "id": "ACwAA8vZRNzvdie",
+    "type": "cross_lead_leak",
+    "field": "message"
+  },
+  {
+    "id": "ACwAALQclqawu9u",
+    "type": "misattributed_number",
+    "field": "message"
+  },
+  {
+    "id": "ACwAAOS2yu9jSNc",
+    "type": "false_new_role",
+    "field": "message"
+  },
+  {
+    "id": "ACwAAZK3QQobiwg",
+    "type": "misattributed_number",
+    "field": "message"
+  },
+  {
+    "id": "ACwAACe53fGUDY0",
+    "type": "unsupported_event",
+    "field": "message"
+  },
+  {
+    "id": "ACwAACCh3m86bCY",
+    "type": "invented_number",
+    "field": "message"
+  },
+  {
+    "id": "ACwAA7iYF2Ro3Eb",
+    "type": "number_from_text",
+    "field": "message"
+  },
+  {
+    "id": "ACwAAt0aU0h5S3r",
+    "type": "wrong_growth_direction",
+    "field": "message"
+  },
+  {
+    "id": "ACwAABtVWAbVy2I",
+    "type": "unsupported_event",
+    "field": "message"
+  },
+  {
+    "id": "ACwAArpTOzoDPhN",
+    "type": "wrong_function",
+    "field": "message"
+  },
+  {
+    "id": "ACwAAtwYmb1xUnq",
+    "type": "wrong_function",
+    "field": "message"
+  },
+  {
+    "id": "ACwAA02bbR3DKay",
+    "type": "unsupported_event",
+    "field": "message"
+  },
+  {
+    "id": "ACwAAmXTFm8tYon",
+    "type": "false_new_role",
+    "field": "message"
+  },
+  {
+    "id": "ACwAA6jyn8iddy3",
+    "type": "invented_number",
+    "field": "message"
+  },
+  {
+    "id": "ACwAAv7h7mwYYAd",
+    "type": "wrong_function",
+    "field": "message"
+  },
+  {
+    "id": "ACwAApMzxCXdmdL",
+    "type": "false_new_role",
+    "field": "message"
+  },
+  {
+    "id": "ACwAAWsrqpqBlor",
+    "type": "unsupported_event",
+    "field": "message"
+  },
+  {
+    "id": "ACwAAOgCca2oBx2",
+    "type": "wrong_growth_direction",
+    "field": "message"
+  },
+  {
+    "id": "ACwAAWPaNSvcvc9",
+    "type": "false_new_role",
+    "field": "message"
+  },
+  {
+    "id": "ACwAAebEDzXPjHO",
+    "type": "wrong_growth_direction",
+    "field": "message"
+  },
+  {
+    "id": "ACwAAxUXXsZc4tL",
+    "type": "cross_lead_leak",
+    "field": "subject"
+  },
+  {
+    "id": "ACwAAMmDJc6jwj8",
+    "type": "number_from_text",
+    "field": "message"
+  },
+  {
+    "id": "ACwAAIMsAKAOBBb",
+    "type": "number_from_text",
+    "field": "message"
+  },
+  {
+    "id": "ACwAATUnsMzwcEL",
+    "type": "invented_number",
+    "field": "message"
+  },
+  {
+    "id": "ACwAAjaXRBdiPqY",
+    "type": "wrong_function",
+    "field": "message"
+  },
+  {
+    "id": "ACwAAYktsd3WSa0",
+    "type": "false_new_role",
+    "field": "message"
+  },
+  {
+    "id": "ACwAAocuUR0SqIB",
+    "type": "misattributed_number",
+    "field": "message"
+  },
+  {
+    "id": "ACwAAJkcgMk8Rbi",
+    "type": "invented_number",
+    "field": "message"
+  },
+  {
+    "id": "ACwAAYY3e146gmg",
+    "type": "cross_lead_leak",
+    "field": "message"
+  },
+  {
+    "id": "ACwAAAOxsAHk8N6",
+    "type": "wrong_growth_direction",
+    "field": "message"
+  },
+  {
+    "id": "ACwAAkBVJhC2ols",
+    "type": "number_from_text",
+    "field": "message"
+  },
+  {
+    "id": "ACwAANCtMgAWSNp",
+    "type": "misattributed_number",
+    "field": "message"
+  }
+]

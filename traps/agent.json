@@ -1,0 +1,905 @@
+{
+  "icp": "Heads of Sales Development and SDR managers at software companies in Germany, 51 to 1,000 employees. Fit 5: leads an SDR or BDR team at a software company in the size range. Offer: Evaboot exports Sales Navigator searches and lists into clean files with verified emails, so SDRs stop building lead lists by hand. Proof: none beyond the offer. Ask: a 15-minute call.",
+  "leads": [
+    {
+      "id": "ACwAA2Y1rzw27jk",
+      "fit": 5,
+      "reason": "VP Sales Development at a software company with 568 employees, leading a team of 7 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "7 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Pellera SDR team",
+      "message": "Hi Lena,\n\nWith 568 people at Pellera and 7 SDRs on your team, list building takes real hours every week. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Pellera?"
+    },
+    {
+      "id": "ACwAAjHLth16OTC",
+      "fit": 5,
+      "reason": "Director of Business Development at a software company with 911 employees, leading a team of 23 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "23 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Arvoaro SDR team",
+      "message": "Hi Jonas,\n\nI saw Arvoaro just raised a Series B, so outbound is likely about to get more attention. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Arvoaro?"
+    },
+    {
+      "id": "ACwAA9BgLgJH6Me",
+      "fit": 5,
+      "reason": "SDR Manager at a software company with 166 employees, leading a team of 20 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "20 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Sorvera SDR team",
+      "message": "Hi Mira,\n\nWith 166 people at Sorvera and 20 SDRs on your team, list building takes real hours every week. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Sorvera?"
+    },
+    {
+      "id": "ACwAAh09CDfgvqZ",
+      "fit": 5,
+      "reason": "Director of Business Development at a software company with 709 employees, leading a team of 13 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "13 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Quellix SDR team",
+      "message": "Hi Felix,\n\nWith Quellix growing fast, your SDRs are likely covering more accounts every month. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Quellix?"
+    },
+    {
+      "id": "ACwAAVHWunY90XY",
+      "fit": 5,
+      "reason": "SDR Manager at a software company with 772 employees, leading a team of 13 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "13 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Nordera SDR team",
+      "message": "Hi Hanna,\n\nWith 772 people at Nordera and 13 SDRs on your team, list building takes real hours every week. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Quellaro?"
+    },
+    {
+      "id": "ACwAAqQ7B697wno",
+      "fit": 5,
+      "reason": "Director of Business Development at a software company with 564 employees, leading a team of 16 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "16 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Tesswerk SDR team",
+      "message": "Hi Tobias,\n\nWith 564 people at Quellaro and 16 SDRs on your team, list building takes real hours every week. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Quellaro?"
+    },
+    {
+      "id": "ACwAAXfO4WUDlWu",
+      "fit": 5,
+      "reason": "Sales Development Lead at a software company with 699 employees, leading a team of 24 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "24 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Tesswerk SDR team",
+      "message": "Hi Clara,\n\nYour SDR team grew to 77 reps this year, so list building is likely eating more hours. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Tesswerk?"
+    },
+    {
+      "id": "ACwAAOvIia8OG5A",
+      "fit": 5,
+      "reason": "BDR Team Lead at a software company with 885 employees, leading a team of 25 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "Leads a team of 25 SDRs.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Olmflow SDR team",
+      "message": "Hi Moritz,\n\nYour profile mentions building outbound teams across 5 countries, and every market needs its own lists. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Olmflow?"
+    },
+    {
+      "id": "ACwAAHZdT3PYGZ2",
+      "fit": 5,
+      "reason": "Director of Business Development at a software company with 359 employees, leading a team of 21 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "Company headcount grew 16% in six months.",
+      "why_now_field": "company_growth_6m_pct",
+      "channel": "email",
+      "subject": "Lead lists for the Travera SDR team",
+      "message": "Hi Johanna,\n\nTravera grew 16% in the last six months, so your 21-person SDR team is likely working through more accounts. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Travera?"
+    },
+    {
+      "id": "ACwAAiMhdQGDW2d",
+      "fit": 5,
+      "reason": "SDR Manager at a software company with 855 employees, leading a team of 10 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "10 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Feldflow SDR team",
+      "message": "Hi Lukas,\n\nWith 855 people at Feldflow and 10 SDRs on your team, list building takes real hours every week. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Feldflow?"
+    },
+    {
+      "id": "ACwAABLFFQCHD6R",
+      "fit": 5,
+      "reason": "Head of Sales Development at a software company with 160 employees, leading a team of 21 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "21 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Pelltal SDR team",
+      "message": "Hi Greta,\n\nPelltal grew 24% in the last six months, so your SDR team is likely working through more accounts. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Pelltal?"
+    },
+    {
+      "id": "ACwAAAnshW6Nwpi",
+      "fit": 5,
+      "reason": "Head of Sales Development at a software company with 184 employees, leading a team of 17 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "17 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Sorvix SDR team",
+      "message": "Hi Niklas,\n\nWith 184 people at Sorvix and 17 SDRs on your team, list building takes real hours every week. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Sorvix?"
+    },
+    {
+      "id": "ACwAA9zAwfwuCRx",
+      "fit": 5,
+      "reason": "Sales Development Lead at a software company with 558 employees, leading a team of 10 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "Company headcount grew 11% in six months.",
+      "why_now_field": "company_growth_6m_pct",
+      "channel": "email",
+      "subject": "Lead lists for the Lumsync SDR team",
+      "message": "Hi Ida,\n\nLumsync grew 11% in the last six months, so your 10-person SDR team is likely working through more accounts. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Lumsync?"
+    },
+    {
+      "id": "ACwAAq4lUY0P6zH",
+      "fit": 5,
+      "reason": "Head of Sales Development at a software company with 125 employees, leading a team of 8 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "8 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Lumion SDR team",
+      "message": "Hi Julian,\n\nLumion grew 6% in the last six months, so your SDRs are likely working through more accounts. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Lumion?"
+    },
+    {
+      "id": "ACwAAFlvbpaTIlD",
+      "fit": 5,
+      "reason": "Director of Business Development at a software company with 703 employees, leading a team of 14 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "14 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Quellion SDR team",
+      "message": "Hi Paula,\n\nAs you lead the marketing team at Quellion, list building probably lands on your desk. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Quellion?"
+    },
+    {
+      "id": "ACwAA8vZRNzvdie",
+      "fit": 5,
+      "reason": "Sales Development Lead at a software company with 619 employees, leading a team of 17 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "17 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Brixix SDR team",
+      "message": "Hi Henrik,\n\nWith 619 people at Brixix and 17 SDRs on your team, list building takes real hours every week. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Tessora?"
+    },
+    {
+      "id": "ACwAALQclqawu9u",
+      "fit": 5,
+      "reason": "Sales Development Lead at a software company with 116 employees, leading a team of 7 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "7 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Tessora SDR team",
+      "message": "Hi Emilia,\n\nYour 21-person SDR team probably spends hours on lead lists every week. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Tessora?"
+    },
+    {
+      "id": "ACwAAOS2yu9jSNc",
+      "fit": 5,
+      "reason": "BDR Team Lead at a software company with 366 employees, leading a team of 14 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "14 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Arvoera SDR team",
+      "message": "Hi Fabian,\n\nCongrats on the new role at Arvoera; the first months are often when list building gets a fresh look. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Arvoera?"
+    },
+    {
+      "id": "ACwAAZK3QQobiwg",
+      "fit": 5,
+      "reason": "BDR Team Lead at a software company with 811 employees, leading a team of 27 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "27 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Nordix SDR team",
+      "message": "Hi Marlene,\n\nAfter 27 years leading sales development at Nordix, you know how much SDR time goes into lists. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Nordix?"
+    },
+    {
+      "id": "ACwAACe53fGUDY0",
+      "fit": 5,
+      "reason": "Director of Business Development at a software company with 701 employees, leading a team of 22 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "22 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Lumbit SDR team",
+      "message": "Hi Florian,\n\nCongrats on the product launch at Lumbit; new products usually mean new outbound lists. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Lumbit?"
+    },
+    {
+      "id": "ACwAAVMNejpUsJa",
+      "fit": 5,
+      "reason": "VP Sales Development at a software company with 531 employees, leading a team of 20 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "Company headcount grew 31% in six months.",
+      "why_now_field": "company_growth_6m_pct",
+      "channel": "email",
+      "subject": "Lead lists for the Pellbit SDR team",
+      "message": "Hi Annika,\n\nPellbit grew 31% in the last six months, so your 20-person SDR team is likely working through more accounts. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Pellbit?"
+    },
+    {
+      "id": "ACwAACCh3m86bCY",
+      "fit": 5,
+      "reason": "Director of Business Development at a software company with 161 employees, leading a team of 27 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "27 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Olmtal SDR team",
+      "message": "Hi Jannik,\n\nOlmtal doubled to 740 employees, so your SDRs are covering more accounts. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Olmtal?"
+    },
+    {
+      "id": "ACwAA7iYF2Ro3Eb",
+      "fit": 5,
+      "reason": "SDR Manager at a software company with 275 employees, leading a team of 7 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "7 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Travtal SDR team",
+      "message": "Hi Sophie,\n\nYour 12-person SDR team probably spends hours on lead lists every week. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Travtal?"
+    },
+    {
+      "id": "ACwAAt0aU0h5S3r",
+      "fit": 5,
+      "reason": "Director of Business Development at a software company with 369 employees, leading a team of 28 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "28 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Kranion SDR team",
+      "message": "Hi Matthias,\n\nKranion keeps scaling quickly, so your SDR team probably needs more lists. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Kranion?"
+    },
+    {
+      "id": "ACwAABtVWAbVy2I",
+      "fit": 5,
+      "reason": "SDR Manager at a software company with 914 employees, leading a team of 26 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "26 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Feldion SDR team",
+      "message": "Hi Leonie,\n\nYour recent post about outbound quality stood out, and list building is where that starts. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Feldion?"
+    },
+    {
+      "id": "ACwAArpTOzoDPhN",
+      "fit": 5,
+      "reason": "VP Sales Development at a software company with 623 employees, leading a team of 9 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "9 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Kranbit SDR team",
+      "message": "Hi Dominik,\n\nYour customer success team probably spends hours on account lists every week. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Kranbit?"
+    },
+    {
+      "id": "ACwAAtwYmb1xUnq",
+      "fit": 5,
+      "reason": "BDR Team Lead at a software company with 309 employees, leading a team of 7 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "7 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Arvoflow SDR team",
+      "message": "Hi Carla,\n\nAs head of marketing at Arvoflow, you know how much campaign time goes into lists. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Arvoflow?"
+    },
+    {
+      "id": "ACwAA02bbR3DKay",
+      "fit": 5,
+      "reason": "VP Sales Development at a software company with 314 employees, leading a team of 17 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "17 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Sorvora SDR team",
+      "message": "Hi Sebastian,\n\nI saw Sorvora just raised a Series B, so outbound is likely about to get more attention. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Sorvora?"
+    },
+    {
+      "id": "ACwAA6SOVCIcWo5",
+      "fit": 5,
+      "reason": "Sales Development Lead at a software company with 289 employees, leading a team of 9 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "Leads a team of 9 SDRs.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Travsync SDR team",
+      "message": "Hi Theresa,\n\nYour profile mentions building outbound teams across 5 countries, and every market needs its own lists. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Travsync?"
+    },
+    {
+      "id": "ACwAADop7RtbEPA",
+      "fit": 5,
+      "reason": "Sales Development Lead at a software company with 368 employees, leading a team of 19 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "4 years in the role.",
+      "why_now_field": "years_in_role",
+      "channel": "email",
+      "subject": "Lead lists for the Mossora SDR team",
+      "message": "Hi Kilian,\n\nAfter 4 years leading sales development at Mossora, you know how much SDR time goes into building lists. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Mossora?"
+    },
+    {
+      "id": "ACwAAmXTFm8tYon",
+      "fit": 5,
+      "reason": "Director of Business Development at a software company with 564 employees, leading a team of 6 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "6 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Mosstal SDR team",
+      "message": "Hi Nora,\n\nNow that you have just started as Director of Business Development, list building is probably on your desk. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Mosstal?"
+    },
+    {
+      "id": "ACwAA6jyn8iddy3",
+      "fit": 5,
+      "reason": "VP Sales Development at a software company with 684 employees, leading a team of 10 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "10 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Nordwerk SDR team",
+      "message": "Hi Valentin,\n\nYour SDR team grew to 18 reps this year, so list building is likely eating more hours. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Nordwerk?"
+    },
+    {
+      "id": "ACwAAv7h7mwYYAd",
+      "fit": 5,
+      "reason": "Director of Business Development at a software company with 233 employees, leading a team of 8 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "8 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Travora SDR team",
+      "message": "Hi Frieda,\n\nAs you lead the marketing team at Travora, list building probably lands on your desk. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Travora?"
+    },
+    {
+      "id": "ACwAApMzxCXdmdL",
+      "fit": 5,
+      "reason": "Head of Sales Development at a software company with 257 employees, leading a team of 15 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "15 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Feldsync SDR team",
+      "message": "Hi Benedikt,\n\nAs you settle into the Head of Sales Development role, list building is often one of the first things to fix. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Feldsync?"
+    },
+    {
+      "id": "ACwAAboD77xpAE5",
+      "fit": 5,
+      "reason": "Sales Development Lead at a software company with 342 employees, leading a team of 14 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "2 years in the role.",
+      "why_now_field": "years_in_role",
+      "channel": "email",
+      "subject": "Lead lists for the Nordtal SDR team",
+      "message": "Hi Selin,\n\nAfter 2 years leading sales development at Nordtal, you know how much SDR time goes into building lists. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Nordtal?"
+    },
+    {
+      "id": "ACwAADHjAgeMmA9",
+      "fit": 5,
+      "reason": "Head of Sales Development at a software company with 461 employees, leading a team of 10 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "Moved into the role 4 months ago.",
+      "why_now_field": "new_in_role",
+      "channel": "email",
+      "subject": "Lead lists for the Olmaro SDR team",
+      "message": "Hi Konstantin,\n\nYou moved into the Head of Sales Development role 4 months ago, which is often when list building gets a fresh look. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Olmaro?"
+    },
+    {
+      "id": "ACwAAWsrqpqBlor",
+      "fit": 5,
+      "reason": "Sales Development Lead at a software company with 531 employees, leading a team of 24 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "24 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Olmera SDR team",
+      "message": "Hi Amelie,\n\nCongrats on the product launch at Olmera; new products usually mean new outbound lists. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Olmera?"
+    },
+    {
+      "id": "ACwAAOgCca2oBx2",
+      "fit": 5,
+      "reason": "BDR Team Lead at a software company with 465 employees, leading a team of 13 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "13 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Sorvtal SDR team",
+      "message": "Hi Elias,\n\nYour team is expanding, so list building is likely eating more hours. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Sorvtal?"
+    },
+    {
+      "id": "ACwAAWPaNSvcvc9",
+      "fit": 5,
+      "reason": "VP Sales Development at a software company with 136 employees, leading a team of 16 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "16 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Brixsync SDR team",
+      "message": "Hi Rosa,\n\nCongrats on the new role at Brixsync; the first months are often when list building gets a fresh look. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Brixsync?"
+    },
+    {
+      "id": "ACwAAebEDzXPjHO",
+      "fit": 5,
+      "reason": "SDR Manager at a software company with 898 employees, leading a team of 15 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "15 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Kransync SDR team",
+      "message": "Hi Adrian,\n\nWith Kransync growing fast, your SDRs are likely covering more accounts every month. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Kransync?"
+    },
+    {
+      "id": "ACwAAz19wmTma3A",
+      "fit": 5,
+      "reason": "Director of Business Development at a software company with 487 employees, leading a team of 6 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "2 years in the role.",
+      "why_now_field": "years_in_role",
+      "channel": "email",
+      "subject": "Lead lists for the Lumora SDR team",
+      "message": "Hi Pia,\n\nAfter 2 years leading sales development at Lumora, you know how much SDR time goes into building lists. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Lumora?"
+    },
+    {
+      "id": "ACwAAxUXXsZc4tL",
+      "fit": 5,
+      "reason": "Head of Sales Development at a software company with 350 employees, leading a team of 10 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "10 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Quellwerk SDR team",
+      "message": "Hi Linus,\n\nWith 350 people at Valdtal and 10 SDRs on your team, list building takes real hours every week. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Valdtal?"
+    },
+    {
+      "id": "ACwAAMmDJc6jwj8",
+      "fit": 5,
+      "reason": "BDR Team Lead at a software company with 695 employees, leading a team of 27 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "27 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Quellwerk SDR team",
+      "message": "Hi Merle,\n\nQuellwerk grew 5% in the last six months, so your SDRs are likely working through more accounts. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Quellwerk?"
+    },
+    {
+      "id": "ACwAAIMsAKAOBBb",
+      "fit": 5,
+      "reason": "VP Sales Development at a software company with 748 employees, leading a team of 6 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "6 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Feldbit SDR team",
+      "message": "Hi Jakob,\n\nYour 8-person SDR team probably spends hours on lead lists every week. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Feldbit?"
+    },
+    {
+      "id": "ACwAAci5tSeU3OW",
+      "fit": 5,
+      "reason": "VP Sales Development at a software company with 427 employees, leading a team of 18 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "Leads a team of 18 SDRs.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Pellion SDR team",
+      "message": "Hi Vanessa,\n\nYour profile mentions building outbound teams across 8 countries, and every market needs its own lists. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Pellion?"
+    },
+    {
+      "id": "ACwAAj3rYiF5mqF",
+      "fit": 5,
+      "reason": "Director of Business Development at a software company with 354 employees, leading a team of 10 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "Moved into the role 2 months ago.",
+      "why_now_field": "new_in_role",
+      "channel": "email",
+      "subject": "Lead lists for the Mosswerk SDR team",
+      "message": "Hi Oskar,\n\nYou moved into the Director of Business Development role 2 months ago, which is often when list building gets a fresh look. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Mosswerk?"
+    },
+    {
+      "id": "ACwAApH1Txxwjuf",
+      "fit": 5,
+      "reason": "Sales Development Lead at a software company with 523 employees, leading a team of 22 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "4 years in the role.",
+      "why_now_field": "years_in_role",
+      "channel": "email",
+      "subject": "Lead lists for the Kranflow SDR team",
+      "message": "Hi Helena,\n\nAfter 4 years leading sales development at Kranflow, you know how much SDR time goes into building lists. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Kranflow?"
+    },
+    {
+      "id": "ACwAATUnsMzwcEL",
+      "fit": 5,
+      "reason": "Director of Business Development at a software company with 109 employees, leading a team of 14 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "14 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Travaro SDR team",
+      "message": "Hi Timo,\n\nTravaro doubled to 680 employees, so your SDRs are covering more accounts. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Travaro?"
+    },
+    {
+      "id": "ACwAAjaXRBdiPqY",
+      "fit": 5,
+      "reason": "BDR Team Lead at a software company with 663 employees, leading a team of 9 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "9 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Valdbit SDR team",
+      "message": "Hi Laura,\n\nYour customer success team probably spends hours on account lists every week. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Valdbit?"
+    },
+    {
+      "id": "ACwAAYktsd3WSa0",
+      "fit": 5,
+      "reason": "Sales Development Lead at a software company with 264 employees, leading a team of 21 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "21 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Feldaro SDR team",
+      "message": "Hi Simon,\n\nNow that you have just started as Sales Development Lead, list building is probably on your desk. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Feldaro?"
+    },
+    {
+      "id": "ACwAAocuUR0SqIB",
+      "fit": 5,
+      "reason": "Head of Sales Development at a software company with 731 employees, leading a team of 19 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "19 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Pellora SDR team",
+      "message": "Hi Katrin,\n\nPellora grew 36% in the last six months, so your SDR team is likely working through more accounts. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Pellora?"
+    },
+    {
+      "id": "ACwAA6Uu2uo4NQP",
+      "fit": 5,
+      "reason": "Sales Development Lead at a software company with 75 employees, leading a team of 10 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "2 years in the role.",
+      "why_now_field": "years_in_role",
+      "channel": "email",
+      "subject": "Lead lists for the Olmwerk SDR team",
+      "message": "Hi Malte,\n\nAfter 2 years leading sales development at Olmwerk, you know how much SDR time goes into building lists. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Olmwerk?"
+    },
+    {
+      "id": "ACwAAJkcgMk8Rbi",
+      "fit": 5,
+      "reason": "BDR Team Lead at a software company with 644 employees, leading a team of 14 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "14 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Brixflow SDR team",
+      "message": "Hi Isabel,\n\nYour SDR team grew to 82 reps this year, so list building is likely eating more hours. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Brixflow?"
+    },
+    {
+      "id": "ACwAAYY3e146gmg",
+      "fit": 5,
+      "reason": "Director of Business Development at a software company with 814 employees, leading a team of 6 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "6 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Valdera SDR team",
+      "message": "Hi Ruben,\n\nWith 814 people at Valdera and 6 SDRs on your team, list building takes real hours every week. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Nordbit?"
+    },
+    {
+      "id": "ACwAASwt7F0MbzB",
+      "fit": 5,
+      "reason": "Director of Business Development at a software company with 327 employees, leading a team of 5 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "Moved into the role 4 months ago.",
+      "why_now_field": "new_in_role",
+      "channel": "email",
+      "subject": "Lead lists for the Nordbit SDR team",
+      "message": "Hi Svenja,\n\nYou moved into the Director of Business Development role 4 months ago, which is often when list building gets a fresh look. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Nordbit?"
+    },
+    {
+      "id": "ACwAAvfRZ7K7FJj",
+      "fit": 5,
+      "reason": "Head of Sales Development at a software company with 61 employees, leading a team of 21 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "4 years in the role.",
+      "why_now_field": "years_in_role",
+      "channel": "email",
+      "subject": "Lead lists for the Mossion SDR team",
+      "message": "Hi Philipp,\n\nAfter 4 years leading sales development at Mossion, you know how much SDR time goes into building lists. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Mossion?"
+    },
+    {
+      "id": "ACwAAAOxsAHk8N6",
+      "fit": 5,
+      "reason": "VP Sales Development at a software company with 394 employees, leading a team of 16 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "16 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Kranaro SDR team",
+      "message": "Hi Anja,\n\nKranaro keeps scaling quickly, so your SDR team probably needs more lists. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Kranaro?"
+    },
+    {
+      "id": "ACwAAkBVJhC2ols",
+      "fit": 5,
+      "reason": "Sales Development Lead at a software company with 594 employees, leading a team of 9 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "9 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Brixbit SDR team",
+      "message": "Hi Bastian,\n\nBrixbit grew 10% in the last six months, so your SDRs are likely working through more accounts. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Brixbit?"
+    },
+    {
+      "id": "ACwAAFNCiLzT4AJ",
+      "fit": 5,
+      "reason": "Sales Development Lead at a software company with 94 employees, leading a team of 5 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "5 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Nordion SDR team",
+      "message": "Hi Marie,\n\nWith 94 people at Nordion and 5 SDRs on your team, list building takes real hours every week. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Nordion?"
+    },
+    {
+      "id": "ACwAANCtMgAWSNp",
+      "fit": 5,
+      "reason": "Sales Development Lead at a software company with 743 employees, leading a team of 28 SDRs.",
+      "evidence": [
+        "title",
+        "employees",
+        "sales_team"
+      ],
+      "why_now": "28 SDRs on the team.",
+      "why_now_field": "sales_team",
+      "channel": "email",
+      "subject": "Lead lists for the Travix SDR team",
+      "message": "Hi Daniel,\n\nYour 21-person SDR team probably spends hours on lead lists every week. Evaboot turns your Sales Navigator searches into clean lists with verified emails, so your SDRs stop building lead lists by hand.\n\nWorth a 15-minute call to see if it fits Travix?"
+    }
+  ]
+}

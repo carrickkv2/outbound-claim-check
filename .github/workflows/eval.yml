@@ -1,0 +1,16 @@
+name: eval
+on: [push, pull_request]
+jobs:
+  eval:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Unit tests
+        run: python3 -m unittest -v
+      - name: Traps match make_traps.py
+        run: python3 make_traps.py --check
+      - name: Rules catch seeded errors, no false alarms
+        run: python3 claimcheck.py eval traps --min-recall 0.9 --max-false-flags 0
