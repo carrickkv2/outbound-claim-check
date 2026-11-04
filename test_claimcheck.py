@@ -28,6 +28,10 @@ class Numbers(unittest.TestCase):
     def test_number_lifted_from_profile_text(self):
         self.assertEqual(kinds("Kranwerk grew 7% this year."), ["number_from_text"])
 
+    def test_sales_team_to_n_people_is_the_sales_team(self):
+        out = cc.check_numbers("growing the sales team to 25 people", LEAD, set())
+        self.assertIn("sales team size", out[0][2])
+
     def test_invented_number(self):
         self.assertEqual(kinds("Your 40 reps are busy."), ["invented_number"])
 
@@ -52,6 +56,10 @@ class Claims(unittest.TestCase):
     def test_events_need_a_field(self):
         self.assertEqual(kinds("Saw you just raised a Series B."), ["unsupported_event"])
         self.assertEqual(kinds("Congrats on the launch.", {**LEAD, "company_description": "Kranwerk launched v2."}), [])
+
+    def test_new_office_is_an_event(self):
+        self.assertEqual(kinds("Saw you opened a Berlin office."), ["unsupported_event"])
+        self.assertEqual(kinds("Congrats on the new office in Berlin."), ["unsupported_event"])
 
     def test_function(self):
         self.assertEqual(kinds("As you lead the marketing team, lists land on you."), ["wrong_function"])

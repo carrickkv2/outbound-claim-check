@@ -96,7 +96,7 @@ def build():
 
 def draft(d, other, v, rng, leads):
     lead, n, core, first = d["lead"], d["n"], d["core"], d["lead"]["first_name"]
-    title, company = lead["title"], lead["company"]
+    title = lead["title"]
     emp, st, m, y = int(n["employees"]), int(n["sales_team"]), n["months_in_role"], n["years_in_role"]
     g6, k = n["company_growth_6m_pct"], n["countries"]
     clean_hooks = {
@@ -136,11 +136,11 @@ def draft(d, other, v, rng, leads):
     elif kind == "wrong_growth_direction":
         hook = [f"With {core} growing fast, your SDRs are likely covering more accounts every month.",
                 f"{core} keeps scaling quickly, so your SDR team probably needs more lists.",
-                f"Your team is expanding, so list building is likely eating more hours."][v % 3]
+                "Your team is expanding, so list building is likely eating more hours."][v % 3]
     elif kind == "unsupported_event":
         hook = [f"I saw {core} just raised a Series B, so outbound is likely about to get more attention.",
                 f"Congrats on the product launch at {core}; new products usually mean new outbound lists.",
-                f"Your recent post about outbound quality stood out, and list building is where that starts."][v % 3]
+                "Your recent post about outbound quality stood out, and list building is where that starts."][v % 3]
     elif kind == "cross_lead_leak":
         if v % 2:
             subject, field = f"Lead lists for the {other} SDR team", "subject"
@@ -148,7 +148,7 @@ def draft(d, other, v, rng, leads):
             ask = f"Worth a 15-minute call to see if it fits {other}?"
     elif kind == "wrong_function":
         hook = [f"As you lead the marketing team at {core}, list building probably lands on your desk.",
-                f"Your customer success team probably spends hours on account lists every week.",
+                "Your customer success team probably spends hours on account lists every week.",
                 f"As head of marketing at {core}, you know how much campaign time goes into lists."][v % 3]
     message = f"Hi {first},\n\n{hook} {OFFER}\n\n{ask}"
     return {"id": lead["id"], "fit": 5,
